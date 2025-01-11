@@ -4,13 +4,12 @@ A Playground App.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a developer place to playground.
 
-A few resources to get you started if this is your first Flutter project:
+You can playground with your code to test:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [provider - Provider en Flutter: How to use Provider](https://pub.dev/packages/provider)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## www.quanticasoft.com
+
